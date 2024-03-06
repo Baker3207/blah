@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.<br></br>
           Hello World!<br></br>
-          my wife is hot
+          my wife THE BEST
         </p>
         <a
           className="App-link"
